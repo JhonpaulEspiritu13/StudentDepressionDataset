@@ -36,4 +36,5 @@ Here is our Linktree for this project: https://linktr.ee/StudentDepressionData
 ## File Guide
 |File|Description|
 |----|----|
-|||
+|Dataset_1_Models.ipynb|"Dataset 2", the file has just not been renamed. Initial collab that "Dataset 3" is based off of. |
+|Dataset_2_Sampled.ipynb|"Dataset 3", the file has just not been renamed. The collab itself is not cleaned from headers from above, but it has all models finished and oversampled.|
