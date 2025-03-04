@@ -26,3 +26,14 @@ We are pleased to note that our Logistic Regression, Decision Tree, and Support 
 ## Linktree
 
 Here is our Linktree for this project: https://linktr.ee/StudentDepressionData
+
+## Citations
+|Citation|Link|
+|----|----|
+|Syeed, Mahbubul; Rahman, Ashifur; Akter, Laila; Fatema, Kaniz; Khan, Razib Hayat; Rajual Karim, Md.; et al. (2024). MHP (Anxiety, Stress, Depression) Dataset of University Students. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25771164.v1|https://figshare.com/articles/dataset/MHP_Anxiety_Stress_Depression_Dataset_of_University_Students/25771164/1|
+|Chhabii. (2024, June). Student Stress Factors: A Comprehensive Analysis, Version 1. Retrieved February 10, 2025 from https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis|https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis|
+
+## File Guide
+|File|Description|
+|----|----|
+|||
